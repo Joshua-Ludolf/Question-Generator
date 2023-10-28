@@ -5,7 +5,7 @@
 
  */
 
-package com.example.csci_1437_javafx;
+package com.example.demo;
 
 // All the imports need to create these objects in the RandomQuestions class
 
